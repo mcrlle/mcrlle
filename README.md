@@ -32,7 +32,7 @@ Em relação a programação, tenho base em HTML, CSS e JavaScript. Para dar aqu
 
 ---
 
-## 📚 Diário da Jornada de Aprendizado (Modo ON!) 🌟
+## 📚 Diário de Aprendizado 🌟
 
 Sabe aquele momento que você se apaixona por um novo livro? Ou quando descobre um novo *hobby* interessante? É assim que me sinto sobre meus estudos! Atualmente, estou em um *affair* sério com o **UX/UI Design** e com a **Inteligência Artificial** (são as minhas minhas melhores *sidekicks*).
 
